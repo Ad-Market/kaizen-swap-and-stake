@@ -1,5 +1,5 @@
 Kaizen Finance creates new opportunities for projects and investors.
- - Crate project tokens quickly and easily.
+ - Create project tokens quickly and easily.
  - Unlock the value of vested tokens via collateralized token pools.
  - Provide credibility and security to project tokens.
 
