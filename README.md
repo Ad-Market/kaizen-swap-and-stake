@@ -3,6 +3,7 @@ Kaizen Finance creates new opportunities for projects and investors.
 We introduce DeFi tools for creating, unlocking and trading of collateralized assets currently locked in vesting schedules and collateral stable coins.
 
  - Create project tokens quickly and easily.
+ - Lock them in vesting schedules.
  - Unlock the value of vested tokens via collateralized token pools.
  - Provide credibility and security to project tokens.
 
