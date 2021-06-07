@@ -1,0 +1,26 @@
+[package]
+name                = "kaizen"
+version             = "0.1.0"
+description         = "Kaizen Finance"
+authors             = ["Kaizen Team"]
+edition             = "2018"
+
+[features]
+no_entrypoint       = []
+test-bpf            = []
+
+[dependencies]
+solana-program      = "1.6.10"
+borsh               = "0.9.0"
+anchor-lang         = { path = "/home/user/.cargo/git/checkouts/anchor-bf03d42499b9267c/6da6ae2/lang" }
+arrayref            = "0.3.6"
+
+[dev-dependencies]
+solana-program-test = "1.6.10"
+solana-sdk          = "1.6.10"
+
+[lib]
+crate-type          = ["cdylib", "lib"]
+
+[package.metadata.docs.rs]
+targets             = ["x86_64-unknown-linux-gnu"]
